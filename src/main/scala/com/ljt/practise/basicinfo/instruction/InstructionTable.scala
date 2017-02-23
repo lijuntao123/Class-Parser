@@ -5,6 +5,7 @@ import java.io.{BufferedReader, File, FileReader, InputStreamReader}
 import scala.collection.immutable.HashMap
 
 /**
+  * 解析操作码
   *
   * @author lijuntao1 
   * @date 2017/2/20 17:22

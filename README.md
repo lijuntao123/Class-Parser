@@ -7,7 +7,7 @@
 ***
 本项目参考了 重点参考了 [HalfStackDeveloper/ClassReader](https://github.com/HalfStackDeveloper/ClassReader)，
 这是一个使用Java编写的。
-此外主要参考了这个[博客](https://gold.xitu.io/post/589834a20ce4630056097a56)https://gold.xitu.io/post/589834a20ce4630056097a56
+此外还参考了这个[博客](https://gold.xitu.io/post/589834a20ce4630056097a56)https://gold.xitu.io/post/589834a20ce4630056097a56
 
 
   2017-2-22 17:13:16

@@ -3,6 +3,26 @@ package com.ljt.practise
 import com.ljt.practise.basicinfo.MemberInfo
 
 /**
+  * *
+  * ClassFile {
+  * u4     magic;
+  * u2     minor_version;
+  * u2     major_version;
+  * u2     constant_pool_count;
+  * cp_info    contant_pool[constant_pool_count – 1];
+  * u2     access_flags;
+  * u2     this_class;
+  * u2     super_class;
+  * u2     interfaces_count;
+  * u2     interfaces[interfaces_count];
+  * u2     fields_count;
+  * field_info     fields[fields_count];
+  * u2     methods_count;
+  * method_info    methods[methods_count];
+  * u2      attributes_count;
+  * attribute_info  attributes[attributes_count];
+  *
+  * 解析后class文件对象
   *
   * @author lijuntao1 
   * @date 2017/2/17 15:08
